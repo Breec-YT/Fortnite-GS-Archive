@@ -1,5 +1,5 @@
 # Fortnite-GS-Archive
-This is the archive of (most) Fortnite Gameservers!<br><br>
+This is the archive of (most) Fortnite Gameservers! All credits go to their respective owners/developers
 
 
 # Missing Gameservers
