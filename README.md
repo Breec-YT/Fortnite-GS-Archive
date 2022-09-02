@@ -9,7 +9,7 @@ We are missing:<br>
 
 # Contribution
 If you would like to add new/missing/old Gameservers you can do in 2 ways<br>
-- DM me on Discord (Enderman#1337) with the .zip file of the Gameserver (if SDK, provide SDK aswell, if non SDK just send source)<br>
+- DM me (Breec#8521) or (Enderman#1337) on Discord with the .zip file of the Gameserver (if SDK, provide SDK aswell, if non SDK just send source)<br>
 - Fork the repo and add the gameserver into a folder with it's name on. Then send Pull Request
 
 # Sources
