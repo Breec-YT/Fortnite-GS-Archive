@@ -22,3 +22,4 @@ All of these sources have been found from their github repos!
 - UWS = https://github.com/Milxnor/Universal-Walking-Simulator
 - Project Reboot = https://github.com/Milxnor/Project-Reboot
 - Forge = https://github.com/ForgeFN/Forge
+- Project Reboot V3 = https://github.com/Milxnor/Project-Reboot-3.0
