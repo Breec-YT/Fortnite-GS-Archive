@@ -9,7 +9,7 @@ We are missing:<br>
 
 # Contribution
 If you would like to add new/missing/old Gameservers you can do in 2 ways<br>
-- DM me (Breec#8521) or (Enderman#1337) on Discord with the .zip file of the Gameserver (if SDK, provide SDK aswell, if non SDK just send source)<br>
+- DM me (Breec) on Discord with the .zip file of the Gameserver (if SDK, provide SDK aswell, if non SDK just send source)<br>
 - Fork the repo and add the gameserver into a folder with it's name on. Then send Pull Request
 
 # Sources
@@ -23,3 +23,4 @@ All of these sources have been found from their github repos!
 - Project Reboot = https://github.com/Milxnor/Project-Reboot
 - Forge = https://github.com/ForgeFN/Forge
 - Project Reboot V3 = https://github.com/Milxnor/Project-Reboot-3.0
+- Solaris = https://github.com/plooshi/SolarisGS
